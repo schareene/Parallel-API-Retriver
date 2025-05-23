@@ -2,7 +2,7 @@
 
 ## About
 
-An API Stock Market Request program. Allows users to see the real-time stock market information, consisting with the use of ALPHA Vantage API and parallel computing with OpenMP. The purpose of the program is to serve users who are beginners at understanding how the Stock Market functions. Therefore, users have the ability to enter the ticker symbols from each company they select, retrive infromation from the Open Price, High Price, Low Price, Current Price, Latest Trading Day, Previous Closing Day, Change Price, and Change Percentage for users to make a decision to BUY or SELL based on how the market looks like.
+An API Parallel Stock Market Retriver program. Allows users to see the real-time stock market information, consisting with the use of ALPHA Vantage API and parallel computing with OpenMP. The purpose of the program is to serve users who are beginners at understanding how the Stock Market functions. Therefore, users have the ability to enter the ticker symbols from each company they select, retrive infromation from the Open Price, High Price, Low Price, Current Price, Latest Trading Day, Previous Closing Day, Change Price, and Change Percentage for users to make a decision to BUY or SELL based on how the market looks like.
 
 ## Installation/ Prerequisites:
 You will first need to install the following software/libraries.
